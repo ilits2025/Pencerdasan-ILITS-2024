@@ -152,3 +152,20 @@ Dengan melakukan langkah-langkah tersebut, kita akan menjadi semakin mudah untuk
 Di workspace frontend, sudah disediakan beberapa komponen yang membuat pengerjaan kita menjadi lebih cepat dan konsisten. Salah satu dari komponen tersebut adalah komponen Typography. Pada komponen Typography, kita bisa memilih variant, font, dan weight yang akan digunakan.
 
 Design system ini bertujuan untuk membuat hasil yang lebih konsisten, karena memiliki dasar komponen yang sama.
+
+## Clean Code
+
+Clean code adalah salah satu aspek penting dalam pengembangan sebuah software/web. Untuk mendapatkan hasil yang maksimal, dan mempermudah orang lain membaca hasil coding kita, sebaiknya clean code ini diterapkan.
+
+Aturan umum clean code yaitu:
+
+1.  Mengikuti standart umum bahasa pemograman
+2.  KISS (Keep It Simple Stupid), diusahakan untuk selalu meminimal mungkin dalam mengimplementasikan kode.
+3.  Cari akar permasalahan, jangan hanya bagian-bagian sekitar yang terkena dampak kode tersebut.
+
+Tips for writing cleaner code:
+
+1.  Effectiveness, Efficiency and Simplicity
+2.  Format and Syntax: Indentation and spacing, Consistent syntax
+3.  Reusability
+4.  Only Expose and Consume Data You Need
