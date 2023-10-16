@@ -2,22 +2,22 @@
 
 ## BPH & Staffli
 
-Kadiv: Ainun
-Wakadiv: Agnes
-Sekben: Farrell
+Kadiv: Ainun </br>
+Wakadiv: Agnes </br>
+Sekben: Farrell </br>
 
-Lead Frontend: Reynaldi
-Staffli Frontend: Bhisma, Dzaky, Farrell
+Lead Frontend: Reynaldi </br>
+Staffli Frontend: Bhisma, Dzaky, Farrell </br>
 
-Lead Backend: Jasmine
-Staffli Backend: Unedo, Zharif, Rio
+Lead Backend: Jasmine </br>
+Staffli Backend: Unedo, Zharif, Rio </br>
 
-Lead UI/UX: Shinta
-Staffli UI/UX: Dian, Hafiz, Yuma
+Lead UI/UX: Shinta </br>
+Staffli UI/UX: Dian, Hafiz, Yuma </br>
 
 ## Workflow
 
-Untuk workflow ILITS 2024, kita menggunakan sistem sprint dan akan ada scrum meeting mingguan.
+Workflow ILITS 2024 menggunakan sistem agile project management yang terdiri dari sprint dan scrum.
 
 ## Tech Stack
 
@@ -142,7 +142,7 @@ Langkah-langkah yang harus diperhatikan saat ingin mengerjakan task layouting ad
 
 1.  Memikirkan bagaimana cara kita mengimplementasikan design tersebut. Contohnya ketika kita melihat design di bawah ini,
     ![contoh](contoh1.jpg)
-    kita harus memikirkan apakah kita menggunakan flex atau grid? dan bagaimana susunan htmlnya.
+    kita harus memikirkan apakah kita menggunakan flex atau grid? dan bagaimana susunan markupnya.
 2.  Mengaplikasikan analisa design kita ke dalam codingan.
 
 Dengan melakukan langkah-langkah tersebut, kita akan menjadi semakin mudah untuk layouting dan membuat hasil coding kita menjadi lebih rapih dan juga terstruktur.
@@ -169,3 +169,15 @@ Tips for writing cleaner code:
 2.  Format and Syntax: Indentation and spacing, Consistent syntax
 3.  Reusability
 4.  Only Expose and Consume Data You Need
+
+## Git & Github
+
+### Git
+
+Git adalah version control system yang bertugas untuk mencatat setiap perubahan pada file. Git memiliki fungsi untuk mengelola versi source code. Git sangat penting digunakan pada sebuah projek yang dikerjakan oleh banyak orang karena git dapat membuat salinan kode yang dapat dimodifikasi tanpa mengubah dan mengganggu versi utama dari kode tersebut. Karena itu, tim yang bekerja untuk mengembangkan sebuah fitur, atau memperbaiki dapat bekerja secara pisah dan menggabungkannya kembali kepada kode utama
+
+Git commands dasar yang biasa digunakan contohnya adalah add, commit, pull, dan push.
+
+### GitHub
+
+GitHub adalah tempat yang digunakan untuk menyimpan dan mengelola kode suatu project. GitHub dan git saling berhubungan, karena git menyimpan data hanya di local komputer kita saja, sedangkan github bisa menyimpan kode kita yang dapat diakses oleh banyak orang.
