@@ -181,3 +181,36 @@ Git commands dasar yang biasa digunakan contohnya adalah add, commit, pull, dan 
 ### GitHub
 
 GitHub adalah tempat yang digunakan untuk menyimpan dan mengelola kode suatu project. GitHub dan git saling berhubungan, karena git menyimpan data hanya di local komputer kita saja, sedangkan github bisa menyimpan kode kita yang dapat diakses oleh banyak orang.
+
+## Issues dan Project
+
+Pada issues kalian dapat melihat tugas yang diberikan ke kalian, dan branch yang akan kalian gunakan untuk mengerjakan tugas tersebut. Kalian dapat melihat deadline tugas pada bagian Project. Jangan lupa keep track progress kalian di project seperti mengubah status todo menjadi in progress, dll.
+
+## Git Branch
+
+Kalian akan mengerjakan tugas yang diberikan pada branch yang seusai dengan Issue yang diberikan pada kalian. Untuk berpindah branch kalian dapat menggunakan perintah `git checkout -b` untuk beralih ke cabang lain:
+
+```
+git checkout -b nama_branch
+```
+
+## Git Commit dan Push:
+
+Setelah melakukan perubahan, kalian harus melakukan commit untuk menyimpan perubahan tersebut secara lokal, dan kemudian push perubahan ke repo. Gunakan perintah berikut:
+
+```
+git add .
+git commit -m "Pesan commit Anda di sini"
+git push
+```
+
+Link contoh conventional commit:
+https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+
+## Pull request
+
+Setelah task yang kalian kerjakan selesai dan sudah di push ke repo, langkah selanjutnya adalah melakukan pull request. Dan meminta review kepada staff ahli.
+
+Ketika pada review tersebut revisi, maka lakukanlah revisi sesusai dengan apa yang diminta.
+Jika kalian sudah selesai mengerjakan revisi tersebut, ulangi langkah Commit dan push.
+Dan kalian dapat menuggu kembali apakah revisi kalian di acc.
